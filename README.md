@@ -5,35 +5,28 @@ A multilingual AI-powered health chatbot designed to assist rural and semi-urban
 
 🚀 Features
 
-🌍 Multilingual support – Accessible in multiple regional languages.
+-  Multilingual support – Accessible in multiple regional languages.
 
-💬 Query-based AI chatbot – Provides guidance on symptoms, first aid, and preventive care.
+-  Query-based AI chatbot – Provides guidance on symptoms, first aid, and preventive care.
 
-📢 Outbreak alerts – Shares real-time updates from official health sources.
+-  Vaccination schedules – Educates users on schedules and importance.
 
-💉 Vaccination reminders – Educates users on schedules and importance.
-
-🌐 Web-first prototype – Works as a simple, responsive chat UI.
+-  Web-first prototype – Works as a simple, responsive chat UI.
 
 🔮 Future Roadmap
 
-📖 Medical history records for personalized responses.
+-  Outbreak alerts – Shares real-time updates from official health sources.
 
-📷 Photo upload & symptom recognition (e.g., skin rashes, wounds).
+-  Medical history records for personalized responses.
 
-🧠 Mental health support using emotion-sensing AI and resource linking.
+-  Photo upload & symptom recognition (e.g., skin rashes, wounds).
 
-🎙 Voice-based interaction & data collection (e.g., LPG booking, voice health inputs).
+-  Mental health support using emotion-sensing AI and resource linking.
 
-📱 WhatsApp & SMS integration for mass adoption.
+-  Voice-based interaction & data collection (e.g., LPG booking, voice health inputs).
 
-🛠 Tech Stack
+-  WhatsApp & SMS integration for mass adoption.
 
-Frontend: HTML, TailwindCSS, JavaScript
-
-Backend/AI: DeepSeek API (chat model)
-
-Deployment (future): Flask + Ngrok / Cloud hosting
 
 ⚡ Disclaimer
 
